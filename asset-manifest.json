@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/antd-tienda-live/static/css/main.f2d7cfd4.css",
-    "main.js": "/antd-tienda-live/static/js/main.212f948c.js",
+    "main.js": "/antd-tienda-live/static/js/main.2fd802db.js",
     "static/media/ropa4.jpg": "/antd-tienda-live/static/media/ropa4.27f1c07b5a37f23eb0ab.jpg",
     "static/media/transpariencia.jpg": "/antd-tienda-live/static/media/transpariencia.a2a121c7eb86b9f73120.jpg",
     "static/media/moda.jpg": "/antd-tienda-live/static/media/moda.6f3807c7b7f3751b3dd8.jpg",
@@ -34,10 +34,10 @@
     "static/media/blazerElla2.jpg": "/antd-tienda-live/static/media/blazerElla2.2bc3c34e5851a797ec99.jpg",
     "index.html": "/antd-tienda-live/index.html",
     "main.f2d7cfd4.css.map": "/antd-tienda-live/static/css/main.f2d7cfd4.css.map",
-    "main.212f948c.js.map": "/antd-tienda-live/static/js/main.212f948c.js.map"
+    "main.2fd802db.js.map": "/antd-tienda-live/static/js/main.2fd802db.js.map"
   },
   "entrypoints": [
     "static/css/main.f2d7cfd4.css",
-    "static/js/main.212f948c.js"
+    "static/js/main.2fd802db.js"
   ]
 }
