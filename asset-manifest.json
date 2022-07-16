@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/antd-tienda-live/static/css/main.f2d7cfd4.css",
+    "main.js": "/antd-tienda-live/static/js/main.212f948c.js",
+    "static/media/ropa4.jpg": "/antd-tienda-live/static/media/ropa4.27f1c07b5a37f23eb0ab.jpg",
+    "static/media/transpariencia.jpg": "/antd-tienda-live/static/media/transpariencia.a2a121c7eb86b9f73120.jpg",
+    "static/media/moda.jpg": "/antd-tienda-live/static/media/moda.6f3807c7b7f3751b3dd8.jpg",
+    "static/media/le.jpeg": "/antd-tienda-live/static/media/le.eca487de9c88fa4e22d8.jpeg",
+    "static/media/camisa3.jpg": "/antd-tienda-live/static/media/camisa3.0cc538314a495080deb8.jpg",
+    "static/media/camisaElla1.jpg": "/antd-tienda-live/static/media/camisaElla1.3d0faf2699780363ae6e.jpg",
+    "static/media/camisa1.jpg": "/antd-tienda-live/static/media/camisa1.584ca0ffb9a05365a97d.jpg",
+    "static/media/ge.jpeg": "/antd-tienda-live/static/media/ge.2dc7a5d9763a4ae449ee.jpeg",
+    "static/media/2.png": "/antd-tienda-live/static/media/2.ed7ef9bda32242ba4468.png",
+    "static/media/camisaElla2.jpg": "/antd-tienda-live/static/media/camisaElla2.fc514e4259195ac1ca9b.jpg",
+    "static/media/integridad.jpg": "/antd-tienda-live/static/media/integridad.e52ab4f0a18b26ebcc15.jpg",
+    "static/media/da.jpeg": "/antd-tienda-live/static/media/da.cb97c9d235aa5a386f0d.jpeg",
+    "static/media/casaca2.jpg": "/antd-tienda-live/static/media/casaca2.f0a8474ea13db86b0bca.jpg",
+    "static/media/cr.jpeg": "/antd-tienda-live/static/media/cr.8d77b9e72e9566940698.jpeg",
+    "static/media/shortElla2.jpg": "/antd-tienda-live/static/media/shortElla2.abe078958e85b85fdc64.jpg",
+    "static/media/shortElla3.jpg": "/antd-tienda-live/static/media/shortElla3.3bc5a40a1a13698c0da8.jpg",
+    "static/media/chaqueta1.jpg": "/antd-tienda-live/static/media/chaqueta1.c07e289fa3533c35b889.jpg",
+    "static/media/camisa2.jpg": "/antd-tienda-live/static/media/camisa2.8a30d75d7f9d9a6b18e3.jpg",
+    "static/media/blazerElla3.jpg": "/antd-tienda-live/static/media/blazerElla3.9b6243e76ef7b0296524.jpg",
+    "static/media/respon2.jpg": "/antd-tienda-live/static/media/respon2.d4a7806648b8d478cc47.jpg",
+    "static/media/shortElla1.jpg": "/antd-tienda-live/static/media/shortElla1.1d036a6ef2c015791bbb.jpg",
+    "static/media/3.JPG": "/antd-tienda-live/static/media/3.2df2184caac1a30c0052.JPG",
+    "static/media/1.jpg": "/antd-tienda-live/static/media/1.e731f790be0865d8a037.jpg",
+    "static/media/casaca3.jpg": "/antd-tienda-live/static/media/casaca3.a8560d00a1516a0cf525.jpg",
+    "static/media/chaqueta2.jpg": "/antd-tienda-live/static/media/chaqueta2.07f2c234fbecc1aef706.jpg",
+    "static/media/chaqueta3.jpg": "/antd-tienda-live/static/media/chaqueta3.8677c0b29cc8dbf6ba8e.jpg",
+    "static/media/polo3given.jpg": "/antd-tienda-live/static/media/polo3given.a73f487ae902e2ed67f7.jpg",
+    "static/media/casaca1.jpg": "/antd-tienda-live/static/media/casaca1.7e229b8fea8844217892.jpg",
+    "static/media/polo2given.jpg": "/antd-tienda-live/static/media/polo2given.0f68cc0474cdf738e957.jpg",
+    "static/media/blazerElla2.jpg": "/antd-tienda-live/static/media/blazerElla2.2bc3c34e5851a797ec99.jpg",
+    "index.html": "/antd-tienda-live/index.html",
+    "main.f2d7cfd4.css.map": "/antd-tienda-live/static/css/main.f2d7cfd4.css.map",
+    "main.212f948c.js.map": "/antd-tienda-live/static/js/main.212f948c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2d7cfd4.css",
+    "static/js/main.212f948c.js"
+  ]
+}
